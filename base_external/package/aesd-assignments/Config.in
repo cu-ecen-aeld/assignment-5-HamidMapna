@@ -4,3 +4,5 @@ config BR2_PACKAGE_AESD_ASSIGNMENTS
 	help
 	  Includes the writer executable, finder.sh and tester.sh in the kernel image.
 	  Used to understand buildroot external trees and package builds.
+
+	  https://github.com/cu-ecen-aeld/assignments-3-and-later-HamidMapna.git

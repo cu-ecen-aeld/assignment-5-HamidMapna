@@ -7,11 +7,7 @@ on:
             - '*'
 jobs:
     full-test:
-<<<<<<< HEAD
         container: cuaesd/aesd-autotest:assignment5-buildroot
-=======
-        container: cuaesd/aesd-autotest:assignment4-buildroot
->>>>>>> a56517c1db828afc536d8de1ba8cd8340887aa38
         runs-on: self-hosted
         timeout-minutes: 120
         steps:
